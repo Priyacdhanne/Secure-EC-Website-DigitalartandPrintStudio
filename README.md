@@ -4,7 +4,7 @@
 This project focuses on designing and analyzing a secure e-commerce platform using WordPress and WooCommerce. The system is deployed on a free hosting platform and evaluated for real-world security vulnerabilities.
 
 ## Live Website
-//digitalartandprintstore.ct.ws//
+https://digitalartandprintstore.ct.ws
 
 ## Technologies Used
 - WordPress
